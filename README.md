@@ -10,7 +10,8 @@ I have worked as the **Database and Internal Website Manager** of Fass Selection
 
 ## Plan For Life
 - [x] Get into a good University for Computer Science
-- [ ] Graduate with top honors
+- [x] Learn a lot and have fun while I'm there
+- [ ] Graduate with top honors and valuable experience
 - [ ] Get a good job in industry
 - [ ] ~~take over the world~~
 - [ ] Make the world better with software
